@@ -5,6 +5,7 @@ Proyek ini menganalisis sentimen pelanggan dari review produk Amazon menggunakan
 
 **📊 Dataset:** 
 Amazon Customer Reviews with Sentiment
+Link : https://www.kaggle.com/datasets/thedevastator/amazon-customer-reviews-with-2013-2019-sentiment
 
 **👉 Insight & Findings:** 
 1. **Distribusi Sentimen (50 Sampel)**
